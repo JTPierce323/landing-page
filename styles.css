@@ -1,0 +1,30 @@
+.menubar, .topleftbox{
+    background-color: #1f2937;
+}
+
+.headerlogo {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+.hlink1, .hlink2, .hlink3 {
+    color: #f9faf8;
+}
+
+.suptext {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+    margin-bottom: 0px;
+}
+
+.subtext {
+    color: #e5e7eb;
+    font-size: 18px;
+    margin-top: 0px;
+}
+
+.hbtn {
+    background-color: #3882f6;
+    color: white;
+}
